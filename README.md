@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**amac81/amac81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Arnaldo Canelas, I've a 20 years backgroud working in IT
 
 <!--Here are some ideas to get you started:-->
 
